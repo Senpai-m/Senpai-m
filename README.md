@@ -85,6 +85,8 @@
   <a href="mailto:mahmood.tentawy@gmail.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Senpai-m"><img src="https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="tel:+201146900236"><img src="https://img.shields.io/badge/Phone-00d4ff?style=for-the-badge&logo=phone&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/mahmoud-ali-5770073a7"><img src="https://imgs.search.brave.com/1yYIqCFgU51CXd5PvX2YYplEBzUweakvOjJ3ORh1JOU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbGlua2VkSW4v/bGlua2VkSW5fUE5H/MzIucG5n-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </p>
 
 <!-- Visitor Counter -->
