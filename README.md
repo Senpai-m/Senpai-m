@@ -3,7 +3,7 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mahmoud%20Ali%20Tantawy&fontSize=90&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Competitive%20Programmer&descSize=25&descAlignY=55" />
 
-<!-- Custom Avatar SVG - Competitive Programmer Theme -->
+<!-- Subaru from Re:Zero Inspired Avatar SVG -->
 <svg width="200" height="200" viewBox="0 0 200 200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" xmlns="http://www.w3.org/2000/svg">
   <!-- Background -->
   <rect width="200" height="200" fill="#0D1117"/>
@@ -11,61 +11,85 @@
   <!-- Grid pattern background -->
   <defs>
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.3"/>
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.2"/>
     </pattern>
-    <linearGradient id="userGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0099cc;stop-opacity:1" />
+    <linearGradient id="skinGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f4c4a0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e8a878;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="hairGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d1b1b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0f0f;stop-opacity:1" />
     </linearGradient>
   </defs>
   
   <rect width="200" height="200" fill="url(#grid)"/>
   
+  <!-- Hair (dark brown, Subaru style) -->
+  <ellipse cx="100" cy="60" rx="40" ry="45" fill="url(#hairGradient)"/>
+  
+  <!-- Hair spikes on top (Subaru's characteristic style) -->
+  <polygon points="85,25 80,8 92,20" fill="url(#hairGradient)"/>
+  <polygon points="100,15 95,-5 110,15" fill="url(#hairGradient)"/>
+  <polygon points="115,25 120,8 108,20" fill="url(#hairGradient)"/>
+  
+  <!-- Hair strands on sides -->
+  <path d="M 65,70 Q 60,80 65,95" stroke="url(#hairGradient)" stroke-width="5" fill="none"/>
+  <path d="M 135,70 Q 140,80 135,95" stroke="url(#hairGradient)" stroke-width="5" fill="none"/>
+  
   <!-- Head -->
-  <circle cx="100" cy="70" r="35" fill="url(#userGradient)"/>
+  <circle cx="100" cy="75" r="38" fill="url(#skinGradient)"/>
   
-  <!-- Hair spikes (Algorithm inspired) -->
-  <polygon points="75,35 70,15 80,30" fill="#00d4ff"/>
-  <polygon points="100,20 95,5 105,20" fill="#00d4ff"/>
-  <polygon points="125,35 130,15 120,30" fill="#00d4ff"/>
+  <!-- Eyes (Subaru's intense blue eyes) -->
+  <ellipse cx="85" cy="70" rx="8" ry="12" fill="#87CEEB"/>
+  <ellipse cx="115" cy="70" rx="8" ry="12" fill="#87CEEB"/>
   
-  <!-- Eyes (intense focus) -->
-  <circle cx="90" cy="65" r="5" fill="#0D1117"/>
-  <circle cx="110" cy="65" r="5" fill="#0D1117"/>
-  <circle cx="92" cy="63" r="2" fill="#00d4ff"/>
-  <circle cx="112" cy="63" r="2" fill="#00d4ff"/>
+  <!-- Eye pupils (intense look) -->
+  <circle cx="87" cy="72" r="4" fill="#000000"/>
+  <circle cx="117" cy="72" r="4" fill="#000000"/>
   
-  <!-- Focused expression -->
-  <path d="M 85 75 Q 100 82 115 75" stroke="#00d4ff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Eye shine/reflection -->
+  <circle cx="89" cy="69" r="2" fill="#ffffff"/>
+  <circle cx="119" cy="69" r="2" fill="#ffffff"/>
   
-  <!-- Body -->
-  <rect x="75" y="105" width="50" height="60" rx="5" fill="#00d4ff" opacity="0.8"/>
+  <!-- Eyebrows (determined expression) -->
+  <path d="M 75 55 Q 85 50 93 55" stroke="#1a0f0f" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 107 55 Q 115 50 125 55" stroke="#1a0f0f" stroke-width="2" fill="none" stroke-linecap="round"/>
   
-  <!-- Code bracket arms -->
-  <path d="M 70 115 L 65 120 L 70 125" stroke="#00d4ff" stroke-width="2" fill="none" stroke-linecap="round"/>
-  <path d="M 130 115 L 135 120 L 130 125" stroke="#00d4ff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Nose -->
+  <line x1="100" y1="72" x2="100" y2="85" stroke="#d4a574" stroke-width="1.5"/>
+  <circle cx="97" cy="86" r="2" fill="#d4a574"/>
+  <circle cx="103" cy="86" r="2" fill="#d4a574"/>
   
-  <!-- Keyboard hands -->
-  <g>
-    <rect x="55" y="140" width="8" height="8" fill="#00d4ff"/>
-    <rect x="65" y="140" width="8" height="8" fill="#00d4ff"/>
-    <rect x="127" y="140" width="8" height="8" fill="#00d4ff"/>
-    <rect x="137" y="140" width="8" height="8" fill="#00d4ff"/>
-  </g>
+  <!-- Mouth (determined smile) -->
+  <path d="M 85 92 Q 100 100 115 92" stroke="#c97c7c" stroke-width="2" fill="none" stroke-linecap="round"/>
   
-  <!-- Legs -->
-  <rect x="82" y="165" width="6" height="20" fill="#00d4ff"/>
-  <rect x="112" y="165" width="6" height="20" fill="#00d4ff"/>
+  <!-- Neck -->
+  <rect x="92" y="108" width="16" height="10" fill="url(#skinGradient)"/>
   
-  <!-- Algorithm symbols floating around -->
-  <text x="30" y="50" font-size="20" fill="#00d4ff" opacity="0.6">{}</text>
-  <text x="160" y="70" font-size="20" fill="#00d4ff" opacity="0.6">⚡</text>
-  <text x="25" y="140" font-size="18" fill="#00d4ff" opacity="0.6">∑</text>
-  <text x="165" y="150" font-size="18" fill="#00d4ff" opacity="0.6">→</text>
+  <!-- Body/Shirt (black, Subaru style) -->
+  <rect x="75" y="115" width="50" height="65" rx="5" fill="#1a1a2e"/>
+  
+  <!-- Shirt details -->
+  <rect x="95" y="120" width="10" height="20" fill="#00d4ff" opacity="0.4"/>
+  
+  <!-- Arms -->
+  <rect x="50" y="125" width="25" height="12" rx="6" fill="url(#skinGradient)"/>
+  <rect x="125" y="125" width="25" height="12" rx="6" fill="url(#skinGradient)"/>
+  
+  <!-- Hands -->
+  <circle cx="50" cy="143" r="8" fill="url(#skinGradient)"/>
+  <circle cx="150" cy="143" r="8" fill="url(#skinGradient)"/>
+  
+  <!-- Code/Algorithm glow around character -->
+  <text x="30" y="50" font-size="16" fill="#00d4ff" opacity="0.5" font-family="monospace">{}</text>
+  <text x="160" y="65" font-size="14" fill="#00d4ff" opacity="0.5" font-family="monospace">≈</text>
+  <text x="25" y="155" font-size="14" fill="#00d4ff" opacity="0.5" font-family="monospace">→</text>
+  <text x="170" y="155" font-size="16" fill="#00d4ff" opacity="0.5" font-family="monospace">∑</text>
 </svg>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=ECPC+9th+Place+%7C+Algorithm+Master;Full-Stack+Developer+%7C+Code+Optimizer;Solving+Complex+Problems+Daily;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=ECPC+9th+Place+%7C+Algorithm+Master;Solving+Problems+Like+Subaru;Return+by+Death+%3D+Debugging+Code;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert" /></a>
 
 <!-- Social Badges -->
 <p>
@@ -91,6 +115,7 @@ class CompetitiveProgrammer {
     string role = "ECPC Finalist | Algorithm Specialist";
     vector<string> languages = {"C++", "C#/.NET", "JavaScript", "SQL"};
     
+    // Like Subaru's Return by Death, I debug iteratively
     Achievement ecpc() {
         return Achievement {
             contest: "ECPC 2024",
@@ -105,6 +130,7 @@ class CompetitiveProgrammer {
         write_clean_code();
         master_algorithms();
         build_scalable_systems();
+        // Keep trying until it's perfect!
     }
 };
 ```
