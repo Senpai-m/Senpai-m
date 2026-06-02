@@ -3,9 +3,7 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mahmoud%20Ali%20Tantawy&fontSize=90&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Competitive%20Programmer&descSize=25&descAlignY=55" />
 
-<!-- Conan-Themed Professional Avatar -->
 <svg width="200" height="200" viewBox="0 0 200 200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background with detective theme -->
   <defs>
     <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%">
       <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
@@ -23,11 +21,9 @@
   
   <rect width="200" height="200" fill="url(#bgGradient)"/>
   
-  <!-- Detective magnifying glass in background -->
   <circle cx="160" cy="40" r="25" fill="none" stroke="#00d4ff" stroke-width="2" opacity="0.3"/>
   <line x1="175" y1="55" x2="190" y2="70" stroke="#00d4ff" stroke-width="2" opacity="0.3"/>
   
-  <!-- Code symbols in background -->
   <text x="20" y="30" font-size="14" fill="#00d4ff" opacity="0.2" font-family="monospace">{ }</text>
   <text x="170" y="180" font-size="12" fill="#00d4ff" opacity="0.2" font-family="monospace">;</text>
   
@@ -82,7 +78,7 @@
 </svg>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=ECPC+9th+Place+%7C+Algorithm+Master;Solving+Problems+Like+Conan;Investigating+Code+Mysteries;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=ECPC+9th+Place+%7C+Algorithm+Master;Solving+Problems+Like+subaro;Reterning+by+Death+=+Debugging+Code;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert" /></a>
 
 <!-- Social Badges -->
 <p>
