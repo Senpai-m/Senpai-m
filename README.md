@@ -86,9 +86,8 @@
   <a href="https://github.com/Senpai-m"><img src="https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="tel:+201146900236"><img src="https://img.shields.io/badge/Phone-00d4ff?style=for-the-badge&logo=phone&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mahmoud-ali-5770073a7">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 </p>
 
 <!-- Visitor Counter -->
