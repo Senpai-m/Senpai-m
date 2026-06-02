@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mahmoud%20Ali%20Tantawy&fontSize=90&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Competitive%20Programmer&descSize=25&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mahmoud%20Ali%20Tantawy&fontSize=80&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Competitive%20Programmer&descSize=25&descAlignY=55" />
 
 <svg width="200" height="200" viewBox="0 0 200 200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" xmlns="http://www.w3.org/2000/svg">
   <defs>
