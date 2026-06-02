@@ -12,11 +12,34 @@ Motivated Computer Science student at the Faculty of Computers and Information, 
 
 ---
 
+## 🌱 Currently Learning
+
+- **Advanced Data Structures & Algorithms** - Deepening competitive programming skills
+- **React & Modern JavaScript Frameworks** - Expanding front-end capabilities
+- **Cloud Technologies** - Exploring deployment and scalability concepts
+- **System Design Principles** - Building scalable backend architectures
+
+---
+
 ## 💻 Technical Skills
 
-**Languages:** C++, C#/.NET, HTML, CSS, JavaScript, SQL
+```
+┌─────────────────────────────────────────────┐
+│  LANGUAGES                                   │
+├─────────────────────────────────────────────┤
+│  C++ ████████████████░░  ▶ Competitive Programming
+│  C# / .NET ███████████░░░  ▶ Application Development
+│  JavaScript ██████████░░░░  ▶ Front-End Development
+│  HTML/CSS ███████████░░░  ▶ Web Development
+│  SQL ███████░░░░░░░░░░░  ▶ Database Design
+└─────────────────────────────────────────────┘
+```
 
-**Core Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Relational Databases, Problem Solving
+**Core Competencies:**
+- 🧠 Object-Oriented Programming & Design Patterns
+- 📊 Data Structures & Algorithm Optimization
+- 🗄️ Relational Databases & SQL
+- 🔄 Problem-Solving & Code Optimization
 
 **Development Areas:**
 - 🎨 Front-End Web Development (HTML, CSS, JavaScript, Responsive Design)
@@ -30,8 +53,9 @@ Motivated Computer Science student at the Faculty of Computers and Information, 
 
 ## 🏆 Achievements & Certifications
 
-- **ECPC Qualifications 2024** - Ranked **9th place university-wide** in Egyptian Collegiate Programming Contest (first attempt)
+- **ECPC Qualifications 2024** - Ranked **9th place university-wide** in Egyptian Collegiate Programming Contest (first attempt) 🥉
 - Active participant in competitive programming contests and university tech events
+- Strong performance in data structures and algorithms coursework
 
 ---
 
@@ -41,6 +65,7 @@ Motivated Computer Science student at the Faculty of Computers and Information, 
 - Built responsive web pages and UI components using HTML, CSS, and JavaScript
 - Implemented interactive features and dynamic content with vanilla JavaScript
 - Focused on clean semantic markup, accessibility, and cross-browser compatibility
+- Delivered projects with focus on user experience and performance
 
 ---
 
@@ -56,19 +81,33 @@ Studying core disciplines: algorithms, data structures, OOP, databases, and soft
 ## 🔗 Projects & Portfolio
 
 Explore my work on **[GitHub](https://github.com/Senpai-m)**:
-- OOP design patterns and implementations
-- Data structures and algorithmic solutions (C++, C#)
-- Responsive front-end web projects with JavaScript interactivity
-- Competitive programming solutions
+- 🎯 **Algorithm Solutions** - Competitive programming and data structure implementations
+- 🏗️ **OOP Design** - Design patterns and architectural best practices
+- 🎨 **Web Projects** - Responsive front-end projects with JavaScript interactivity
+- 📱 **Full-Stack Work** - End-to-end application development
 
 ---
 
-## 🎯 Interests
+## 🎯 What I'm Looking For
 
-- Competitive Programming & Algorithm Optimization
-- Full-Stack Web Development
-- Software Engineering Best Practices
-- Problem-Solving & Code Optimization
+- 💬 Collaboration on **open-source projects** or **competitive programming initiatives**
+- 🤝 Opportunities to contribute to **full-stack development** projects
+- 📚 Mentorship in **system design** and **advanced algorithms**
+- 🚀 Roles that combine **problem-solving** with **practical development**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Senpai-m&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Let's Connect
+
+- 📧 Email: mahmood.tentawy@gmail.com
+- 📱 Phone: +201146900236
+- 💼 GitHub: [github.com/Senpai-m](https://github.com/Senpai-m)
 
 ---
 
