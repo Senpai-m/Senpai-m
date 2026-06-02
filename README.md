@@ -3,11 +3,69 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mahmoud%20Ali%20Tantawy&fontSize=90&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Competitive%20Programmer&descSize=25&descAlignY=55" />
 
-<!-- Profile Image with Border -->
-<img src="https://avatars.githubusercontent.com/u/YOUR-USER-ID?v=4" alt="Mahmoud Ali" width="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
+<!-- Custom Avatar SVG - Competitive Programmer Theme -->
+<svg width="200" height="200" viewBox="0 0 200 200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#0D1117"/>
+  
+  <!-- Grid pattern background -->
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+    <linearGradient id="userGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0099cc;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="200" height="200" fill="url(#grid)"/>
+  
+  <!-- Head -->
+  <circle cx="100" cy="70" r="35" fill="url(#userGradient)"/>
+  
+  <!-- Hair spikes (Algorithm inspired) -->
+  <polygon points="75,35 70,15 80,30" fill="#00d4ff"/>
+  <polygon points="100,20 95,5 105,20" fill="#00d4ff"/>
+  <polygon points="125,35 130,15 120,30" fill="#00d4ff"/>
+  
+  <!-- Eyes (intense focus) -->
+  <circle cx="90" cy="65" r="5" fill="#0D1117"/>
+  <circle cx="110" cy="65" r="5" fill="#0D1117"/>
+  <circle cx="92" cy="63" r="2" fill="#00d4ff"/>
+  <circle cx="112" cy="63" r="2" fill="#00d4ff"/>
+  
+  <!-- Focused expression -->
+  <path d="M 85 75 Q 100 82 115 75" stroke="#00d4ff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Body -->
+  <rect x="75" y="105" width="50" height="60" rx="5" fill="#00d4ff" opacity="0.8"/>
+  
+  <!-- Code bracket arms -->
+  <path d="M 70 115 L 65 120 L 70 125" stroke="#00d4ff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 130 115 L 135 120 L 130 125" stroke="#00d4ff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Keyboard hands -->
+  <g>
+    <rect x="55" y="140" width="8" height="8" fill="#00d4ff"/>
+    <rect x="65" y="140" width="8" height="8" fill="#00d4ff"/>
+    <rect x="127" y="140" width="8" height="8" fill="#00d4ff"/>
+    <rect x="137" y="140" width="8" height="8" fill="#00d4ff"/>
+  </g>
+  
+  <!-- Legs -->
+  <rect x="82" y="165" width="6" height="20" fill="#00d4ff"/>
+  <rect x="112" y="165" width="6" height="20" fill="#00d4ff"/>
+  
+  <!-- Algorithm symbols floating around -->
+  <text x="30" y="50" font-size="20" fill="#00d4ff" opacity="0.6">{}</text>
+  <text x="160" y="70" font-size="20" fill="#00d4ff" opacity="0.6">⚡</text>
+  <text x="25" y="140" font-size="18" fill="#00d4ff" opacity="0.6">∑</text>
+  <text x="165" y="150" font-size="18" fill="#00d4ff" opacity="0.6">→</text>
+</svg>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=Competitive+Programmer+%7C+ECPC+9th+Place;Full-Stack+Developer+%7C+Algorithm+Enthusiast;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert;Building+Efficient+Solutions+%E2%9A%A1" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=ECPC+9th+Place+%7C+Algorithm+Master;Full-Stack+Developer+%7C+Code+Optimizer;Solving+Complex+Problems+Daily;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert" /></a>
 
 <!-- Social Badges -->
 <p>
@@ -27,29 +85,34 @@
 
 ## 💫 About Me
 
-```javascript
-const mahmoud = {
-    name: "Mahmoud Ali Tantawy",
-    role: "Competitive Programmer & Full-Stack Developer",
-    location: "Egypt 🇪🇬",
-    education: "B.Sc. Computer Science @ SVU",
-    achievement: "ECPC 2024 - 9th Place University-Wide 🏆",
-    code: ["C++", "C#/.NET", "JavaScript", "HTML5", "CSS3", "SQL"],
-    technologies: {
-        competitive: ["Data Structures", "Algorithms", "Problem Solving"],
-        frontEnd: ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
-        backEnd: ["C#/.NET", "SQL", "Database Design"],
-        tools: ["Git", "GitHub", "VS Code", "Visual Studio"]
-    },
-    passion: "Clean Code & Efficient Problem-Solving ✨",
-    currentFocus: "Mastering Advanced Algorithms & Full-Stack Development 🚀"
+```cpp
+class CompetitiveProgrammer {
+    string name = "Mahmoud Ali Tantawy";
+    string role = "ECPC Finalist | Algorithm Specialist";
+    vector<string> languages = {"C++", "C#/.NET", "JavaScript", "SQL"};
+    
+    Achievement ecpc() {
+        return Achievement {
+            contest: "ECPC 2024",
+            rank: "9th Place University-Wide",
+            attempt: "First Attempt",
+            significance: "Elite competitive programmer"
+        };
+    }
+    
+    void optimize() {
+        solve_problems_efficiently();
+        write_clean_code();
+        master_algorithms();
+        build_scalable_systems();
+    }
 };
 ```
 
-🔭 I'm passionate about **competitive programming** and **building responsive web applications**  
-🌱 Currently mastering **Advanced Data Structures**, **React**, **Cloud Technologies**  
-💬 Ask me about **C++**, **Competitive Programming**, **Web Development**  
-⚡ Fun fact: **I love turning logic into elegant solutions** 💡
+🔭 Passionate about **competitive programming** and **algorithmic optimization**  
+🌱 Currently mastering **Advanced Algorithms**, **React**, **System Design**  
+💬 Ask me about **C++**, **Data Structures**, **Problem-Solving Strategies**  
+⚡ Fun fact: **Converting complex problems into elegant solutions** 💡
 
 ---
 
@@ -76,7 +139,7 @@ const mahmoud = {
       <br><b>Cloud Tech</b>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="Databases" />
       <br><b>Databases</b>
     </td>
     <td align="center" width="140">
@@ -100,12 +163,12 @@ const mahmoud = {
 
 </div>
 
-### 🎯 Competitive Programming
+### 🎯 Competitive Programming & Algorithms
 <p>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Structures-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Algorithms-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem%20Solving-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Structures-%23FF6B6B.svg?style=for-the-badge&logo=book&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorithms-%234ECDC4.svg?style=for-the-badge&logo=task&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem%20Solving-%2345B7D1.svg?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
 ### 🎨 Frontend Development
@@ -137,7 +200,7 @@ const mahmoud = {
 
 <div align="center">
 
-## 🏆 Skill Progress
+## 🏆 Skill Mastery
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
@@ -145,21 +208,20 @@ const mahmoud = {
 
 ```text
 C++ / Competitive Programming  ████████████████████░░   95%  ▰▰▰▰▰▰▰▰▰▱
+Data Structures & Algorithms   ████████████████████░░   95%  ▰▰▰▰▰▰▰▰▰▱
+Problem Solving                ████████████████████░░   90%  ▰▰▰▰▰▰▰▰▰▱
 HTML5 / CSS3                   ████████████████░░░░░░   80%  ▰▰▰▰▰▰▰▰▱▱
 JavaScript                     ████████████░░░░░░░░░░   60%  ▰▰▰▰▰▰▱▱▱▱
 C# / .NET                      ████████████░░░░░░░░░░   70%  ▰▰▰▰▰▰▱▱▱▱
 SQL / Databases                ███████████░░░░░░░░░░░   55%  ▰▰▰▰▰▱▱▱▱▱
-Problem Solving                ██████████████████░░░░   90%  ▰▰▰▰▰▰▰▰▰▱
-Data Structures                ████████████████████░░   95%  ▰▰▰▰▰▰▰▰▰▱
-Algorithms                     ████████████████░░░░░░   85%  ▰▰▰▰▰▰▰▰▱▱
-Responsive Design              ████████████████░░░░░░   80%  ▰▰▰▰▰▰▰▰▱▱
+Algorithm Optimization         ██████████████████░░░░   85%  ▰▰▰▰▰▰▰▰▱▱
 ```
 
 ---
 
 <div align="center">
 
-## 🏆 Notable Achievement
+## 🥉 Achievement Unlocked
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -168,14 +230,20 @@ Responsive Design              ████████████████�
 <table align="center">
   <tr>
     <td width="100%" valign="top">
-      <h3 align="center">🥉 ECPC Qualifications 2024 - 9th Place University-Wide</h3>
+      <h2 align="center">🏆 ECPC Qualifications 2024</h2>
+      <h3 align="center">9th Place University-Wide | First Attempt</h3>
       <div align="center">
         <p>
           <strong>🎯 Egyptian Collegiate Programming Contest</strong><br>
-          Ranked 9th place university-wide on first attempt in one of Egypt's most prestigious competitive programming contests. Demonstrates strong algorithmic thinking, problem-solving abilities, and coding proficiency under pressure.
+          One of Egypt's most prestigious competitive programming contests. Ranking 9th place university-wide on a first attempt demonstrates exceptional algorithmic thinking, deep problem-solving abilities, and mastery of C++ under extreme time pressure.
         </p>
-        <p>
-          <strong>Technical Skills Applied:</strong> Advanced Data Structures, Algorithmic Optimization, C++ Proficiency, Time-Complexity Analysis
+        <p style="margin-top: 15px;">
+          <strong>💡 Technical Skills Applied:</strong><br>
+          Advanced Data Structures • Complex Algorithm Design • Time-Complexity Optimization • 
+          Memory Efficiency • Competitive Coding Strategies • Real-time Problem Analysis
+        </p>
+        <p style="margin-top: 15px; color: #00d4ff; font-weight: bold;">
+          ✨ This achievement validates my expertise in solving real-world algorithmic challenges efficiently and effectively.
         </p>
       </div>
     </td>
@@ -186,7 +254,7 @@ Responsive Design              ████████████████�
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📊 Activity & Statistics
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -206,13 +274,13 @@ Responsive Design              ████████████████�
 
 <div align="center">
 
-## 🎯 What I'm Looking For
+## 🎯 Open Opportunities
 
-- 🤝 Collaboration on **competitive programming** initiatives
-- 💼 Opportunities in **full-stack development** projects
-- 📚 Mentorship in **system design** and **advanced algorithms**
-- 🚀 Roles combining **problem-solving** with **practical development**
-- 🌟 Open-source contributions in **C++** and **web technologies**
+- 🏅 **Competitive Programming Teams** - Ready to compete at national/international contests
+- 💼 **Full-Stack Development** - Building scalable web applications with modern tech stacks
+- 🔬 **Algorithm Research** - Exploring optimal solutions to complex computational problems
+- 🌟 **Open Source Contributions** - Contributing to high-impact projects in C++, JavaScript
+- 🚀 **Tech Internships** - Seeking positions that combine competitive programming with practical development
 
 </div>
 
@@ -224,7 +292,7 @@ Responsive Design              ████████████████�
 
 <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400" alt="Coding GIF"/>
 
-**I'm always open to interesting conversations and collaboration opportunities!**
+**Always open to interesting conversations and collaboration opportunities!**
 
 <p>
   <a href="mailto:mahmood.tentawy@gmail.com">
@@ -235,8 +303,9 @@ Responsive Design              ████████████████�
   </a>
 </p>
 
-### 📫 Reach me at: **mahmood.tentawy@gmail.com**
-### 📱 Phone: **+201146900236**
+### 📫 Contact
+**Email:** mahmood.tentawy@gmail.com  
+**Phone:** +201146900236
 
 </div>
 
@@ -244,10 +313,12 @@ Responsive Design              ████████████████�
 
 <div align="center">
 
-## 💻 Languages
+## 🌍 Languages
 
-<b>English:</b> B2 - Upper Intermediate  
-<b>Arabic:</b> Native
+| Language | Level |
+|----------|-------|
+| **English** | B2 - Upper Intermediate 🇺🇸 |
+| **Arabic** | Native Speaker 🇪🇬 |
 
 </div>
 
@@ -255,7 +326,7 @@ Responsive Design              ████████████████�
 
 <div align="center">
 
-### 💚 Thanks for visiting my profile! Have a great day! 💚
+### ⭐ Thanks for visiting! Let's code something amazing together! ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 
