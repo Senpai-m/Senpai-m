@@ -3,8 +3,8 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mahmoud%20Ali%20Tantawy&fontSize=90&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Competitive%20Programmer&descSize=25&descAlignY=55" />
 
-<!-- Profile Avatar -->
-<img src="https://www.pinterest.com/pin/797489046556676670/" alt="Mahmoud Ali Avatar" width="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
+<!-- Profile Avatar - Anime Character -->
+<img src="https://i.pinimg.com/736x/your-image-url.jpg" alt="Mahmoud Ali Avatar" width="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=ECPC+9th+Place+%7C+Algorithm+Master;Solving+Problems+Like+Subaru;Return+by+Death+%3D+Debugging+Code;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert" /></a>
@@ -281,7 +281,7 @@ Algorithm Optimization         ████████████████�
 <!-- Inspiration Section -->
 <div align="center">
 
-## 🎨 Code with Passion
+## 🎨 Debug Mode: ON!
 
 <img src="https://i.pinimg.com/736x/8e/99/b1/8e99b1023af734fe239f9e2cf7a216a9.jpg" alt="Coding Inspiration" width="600" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3); margin-top: 30px;" />
 
