@@ -275,14 +275,3 @@ Algorithm Optimization         ████████████████�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 
 </div>
-
----
-
-<!-- Inspiration Section -->
-<div align="center">
-
-## 🎨 Debug Mode: ON!
-
-<img src="https://i.pinimg.com/736x/8e/99/b1/8e99b1023af734fe239f9e2cf7a216a9.jpg" alt="Coding Inspiration" width="600" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3); margin-top: 30px;" />
-
-</div>
