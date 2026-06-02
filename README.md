@@ -3,11 +3,86 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mahmoud%20Ali%20Tantawy&fontSize=90&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Competitive%20Programmer&descSize=25&descAlignY=55" />
 
-<!-- Profile Avatar - Anime Character -->
-<img src="https://i.pinimg.com/736x/your-image-url.jpg" alt="Mahmoud Ali Avatar" width="200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
+<!-- Conan-Themed Professional Avatar -->
+<svg width="200" height="200" viewBox="0 0 200 200" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with detective theme -->
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f0f1e;stop-opacity:1" />
+    </radialGradient>
+    <linearGradient id="skinGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5d5b8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e6b89c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="hairGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3d2817;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2a1810;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="200" height="200" fill="url(#bgGradient)"/>
+  
+  <!-- Detective magnifying glass in background -->
+  <circle cx="160" cy="40" r="25" fill="none" stroke="#00d4ff" stroke-width="2" opacity="0.3"/>
+  <line x1="175" y1="55" x2="190" y2="70" stroke="#00d4ff" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Code symbols in background -->
+  <text x="20" y="30" font-size="14" fill="#00d4ff" opacity="0.2" font-family="monospace">{ }</text>
+  <text x="170" y="180" font-size="12" fill="#00d4ff" opacity="0.2" font-family="monospace">;</text>
+  
+  <!-- Hair -->
+  <ellipse cx="100" cy="55" rx="42" ry="48" fill="url(#hairGradient)"/>
+  
+  <!-- Head -->
+  <circle cx="100" cy="75" r="40" fill="url(#skinGradient)"/>
+  
+  <!-- Glasses frames (detective style) -->
+  <rect x="70" y="65" width="18" height="16" rx="3" fill="none" stroke="#2c2c2c" stroke-width="2"/>
+  <rect x="112" y="65" width="18" height="16" rx="3" fill="none" stroke="#2c2c2c" stroke-width="2"/>
+  <line x1="88" y1="73" x2="112" y2="73" stroke="#2c2c2c" stroke-width="2"/>
+  
+  <!-- Eyes (intelligent look) -->
+  <circle cx="79" cy="73" r="6" fill="#4a90e2"/>
+  <circle cx="121" cy="73" r="6" fill="#4a90e2"/>
+  
+  <!-- Eye shine -->
+  <circle cx="81" cy="71" r="2" fill="#ffffff"/>
+  <circle cx="123" cy="71" r="2" fill="#ffffff"/>
+  
+  <!-- Eyebrows (determined) -->
+  <path d="M 68 60 Q 79 57 88 60" stroke="#2a1810" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M 112 60 Q 121 57 132 60" stroke="#2a1810" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Nose -->
+  <line x1="100" y1="73" x2="100" y2="88" stroke="#d4a574" stroke-width="1.5"/>
+  
+  <!-- Mouth (confident smile) -->
+  <path d="M 85 95 Q 100 102 115 95" stroke="#c97c7c" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Neck -->
+  <rect x="92" y="110" width="16" height="12" fill="url(#skinGradient)"/>
+  
+  <!-- Suit/Blazer (detective theme) -->
+  <polygon points="70,118 130,118 135,160 65,160" fill="#1a1a3e"/>
+  
+  <!-- Shirt inside -->
+  <polygon points="85,120 115,120 115,135 85,135" fill="#f0f0f0"/>
+  
+  <!-- Tie (detective style) -->
+  <polygon points="98,120 102,120 105,140 95,140" fill="#c41e3a"/>
+  
+  <!-- Detective badge/emblem -->
+  <circle cx="100" cy="150" r="8" fill="#ffd700" opacity="0.6"/>
+  <text x="97" y="153" font-size="10" fill="#2c2c2c" font-weight="bold">D</text>
+  
+  <!-- Shoulders -->
+  <ellipse cx="70" cy="135" rx="12" ry="15" fill="#1a1a3e"/>
+  <ellipse cx="130" cy="135" rx="12" ry="15" fill="#1a1a3e"/>
+</svg>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=ECPC+9th+Place+%7C+Algorithm+Master;Solving+Problems+Like+Subaru;Return+by+Death+%3D+Debugging+Code;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=650&lines=ECPC+9th+Place+%7C+Algorithm+Master;Solving+Problems+Like+Conan;Investigating+Code+Mysteries;C%2B%2B+%7C+C%23+%7C+JavaScript+Expert" /></a>
 
 <!-- Social Badges -->
 <p>
@@ -33,7 +108,7 @@ class CompetitiveProgrammer {
     string role = "ECPC Finalist | Algorithm Specialist";
     vector<string> languages = {"C++", "C#/.NET", "JavaScript", "SQL"};
     
-    // Like Subaru's Return by Death, I debug iteratively
+    // Like Conan investigating mysteries, I debug systematically
     Achievement ecpc() {
         return Achievement {
             contest: "ECPC 2024",
@@ -48,7 +123,7 @@ class CompetitiveProgrammer {
         write_clean_code();
         master_algorithms();
         build_scalable_systems();
-        // Keep trying until it's perfect!
+        // Keep investigating until solved!
     }
 };
 ```
