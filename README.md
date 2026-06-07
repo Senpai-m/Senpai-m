@@ -1,7 +1,7 @@
 # Hi, I'm Mahmoud Ali Tantawy
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+Competitive+Programmer;Computer+Science+Student+at+SVU;C%2B%2B+%7C+C%23+.NET+%7C+Front-End+Development;Algorithms%2C+Data+Structures%2C+and+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+Competitive+Programmer;Computer+Science+Student+at+SVU;C%2B%2B+%7C+C%23+.NET+%7C;Algorithms%2C+Data+Structures%2C+and+Clean+Code;solving+problems+like+sobatu+Return+by+Death+==+Debugging+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
