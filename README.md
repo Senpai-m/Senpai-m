@@ -1,3 +1,53 @@
+# Hi, I'm Mahmoud Ali Tantawy
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+Competitive+Programmer;Computer+Science+Student+at+SVU;C%2B%2B+%7C+C%23+.NET+%7C+Front-End+Development;Algorithms%2C+Data+Structures%2C+and+Clean+Code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Senpai-m">
+    <img src="https://komarev.com/ghpvc/?username=Senpai-m&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Senpai-m?tab=followers">
+    <img src="https://img.shields.io/github/followers/Senpai-m?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-ali-5770073a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ali-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+## About Me
+
+I am a motivated Computer Science student at the Faculty of Computers and Information, SVU, with a strong foundation in algorithms, data structures, object-oriented programming, and software engineering.
+
+I enjoy building clean, efficient software, from back-end logic in C++ and C#/.NET to responsive front-end interfaces with HTML, CSS, and JavaScript. I also train as a competitive programmer, where I focus on problem decomposition, algorithmic thinking, and writing reliable code under pressure.
+
+- Studying Computer Science at SVU University
+- Ranked 9th university-wide in ECPC qualifications on my first attempt
+- Building personal and freelance front-end projects with responsive UI and JavaScript interactivity
+- Developing C++ and C# projects that apply OOP, data structures, and algorithms
+- Interested in software engineering, databases, clean code, and practical problem solving
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## Core Strengths
+
+- Object-oriented programming and clean application structure
+- Data structures, algorithms, and competitive programming
+- Front-end web development with semantic HTML, CSS, and vanilla JavaScript
+- C#/.NET application development
 - Relational database design and SQL querying
 - Problem solving, debugging, and steady self-improvement
 
